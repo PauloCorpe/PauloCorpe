@@ -17,7 +17,7 @@
   <a href="pauloeduardocorpe@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
 
-  <a href="https://www.linkedin.com/feed/?trk=404_page" alt="Linkedin">
+  <a href="https://www.linkedin.com/in/paulo-eduardo-corpe-435298157/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
 
   <a href="https://wa.me/+5585984214175" alt="WhatsApp">
